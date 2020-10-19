@@ -22,27 +22,27 @@ public class M3 {
 		
 		Scanner myObj1 = new Scanner(System.in);
 		System.out.println("City 1:");
-		city1 = myObj1.next();
+		city1 = myObj1.nextLine();
 		
 		Scanner myObj2 = new Scanner(System.in);
 		System.out.println("City 2:");
-		city2 = myObj2.next();
+		city2 = myObj2.nextLine();
 		
 		Scanner myObj3 = new Scanner(System.in);
 		System.out.println("City 3:");
-		city3 = myObj3.next();
+		city3 = myObj3.nextLine();
 		
 		Scanner myObj4 = new Scanner(System.in);
 		System.out.println("City 4:");
-		city4 = myObj4.next();
+		city4 = myObj4.nextLine();
 		
 		Scanner myObj5 = new Scanner(System.in);
 		System.out.println("City 5:");
-		city5 = myObj5.next();
+		city5 = myObj5.nextLine();
 		
 		Scanner myObj6 = new Scanner(System.in);
 		System.out.println("City 6:");
-		city6 = myObj6.next();
+		city6 = myObj6.nextLine();
 		
 		//Console output
 		
